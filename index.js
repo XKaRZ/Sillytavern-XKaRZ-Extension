@@ -100,51 +100,6 @@ jQuery(async () => {
 
 
 
-
-
-
-
-
-
-
-    const test = `
-        <div class="flex-container justifyspacebetween alignitemscenter" id="test">
-            <button id="test" class="menu_button interactable " title="test" tabindex="0">test</button>
-        </div>
-		<div class="flex-container justifyspacebetween alignitemscenter" id="test">
-            <button id="delete" class="menu_button interactable " title="delete" tabindex="0">delete</button>
-        </div>
-    `;
-    $("#XKaRZ_extension_settings_ui").append(test);
-
-    $('#test').on('click', async () => {
-
-        console.log('test:', context.chat);
-        console.log('test:', context);
-        console.log('test:', context.extensionSettings.XKaRZ_Extension);
-        console.log('test:', extension_prompts);
-
-
-
-    });
-
-
-
-
-
-
-
-
-
-
-
-    $('#delete').on('click', async () => {
-        console.log('test:', context.chat);
-        delete context.extensionSettings.XKaRZ_Extension.summaryChatHistory;
-        saveSettingsDebounced();
-    });
-	
-
 });
 
 
