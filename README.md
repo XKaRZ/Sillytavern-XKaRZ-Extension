@@ -34,15 +34,9 @@ A powerful chat summarization and management extension for SillyTavern that prov
 
 ## 🚀 Installation
 
-1. **Download the Extension**
-   ```bash
-   git clone [your-repository-url] extensions/XKaRZ_Extension
-   ```
+1. Open Sillytavern.
 
-2. **Enable in SillyTavern**
-   - Restart SillyTavern
-   - Navigate to Extensions settings
-   - Enable "XKaRZ Extension"
+2. Click on the "Expansion" tab
 
 3. **Configure API Profiles**
    - Click "Edit API Profile" in extension settings
