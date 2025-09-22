@@ -36,12 +36,9 @@ A powerful chat summarization and management extension for SillyTavern that prov
 
 1. Open Sillytavern.
 
-2. Click on the "Expansion" tab
+2. Click on the "Expansion" tab.
 
-3. **Configure API Profiles**
-   - Click "Edit API Profile" in extension settings
-   - Add your API endpoint, key, and model information
-   - Test the connection to ensure it works
+3. Using the extension installer, input https://github.com/XKaRZ/Sillytavern-XKaRZ-Extension install.
 
 ## ⚙️ Configuration
 
