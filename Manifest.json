@@ -1,0 +1,9 @@
+{
+    "display_name": "SillyTavern-XKaRZ-Extension",
+    "author": "XKaRZ",
+    "version": "1.0.0",
+    "js": "index.js",
+    "css": "style.css",
+    "homePage": "",
+    "description": ""
+}
