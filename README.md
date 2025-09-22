@@ -93,35 +93,7 @@ The extension supports any API compatible with the OpenAI chat completion format
    - Reduce the number of messages processed at once
    - Use faster/smaller models for summarization
 
-### Debug Mode
-Enable console logging to troubleshoot:
-- API requests and responses
-- Message processing flow
-- Error details
 
-## 📋 Changelog
-
-### v1.0.0
-- Initial release with core summarization features
-- API profile management
-- Basic chat navigation tools
-
-## 🤝 Contributing
-
-We welcome contributions! Please:
-1. Fork the repository
-2. Create a feature branch
-3. Submit a pull request with detailed description
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙏 Acknowledgments
-
-- SillyTavern team for the excellent platform
-- OpenAI for the API specifications
-- Community contributors and testers
 
 ---
 
