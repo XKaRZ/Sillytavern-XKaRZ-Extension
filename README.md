@@ -92,11 +92,3 @@ The extension supports any API compatible with the OpenAI chat completion format
 3. **Performance Issues**
    - Reduce the number of messages processed at once
    - Use faster/smaller models for summarization
-
-
-
----
-
-**Note**: This extension requires SillyTavern to be installed and running. Make sure you have proper API access and credits before using the summarization features.
-
-For support and questions, please open an issue on GitHub or join our community discussions.
